@@ -15,7 +15,7 @@ import studio5.tests.SubstituteAllTestSuite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ DistanceBetweenTest.class, SubstituteAllTestSuite.class, ArraySumTestSuite.class,
-		FilledArrayTestSuite.class, ArrayMeanTestSuite.class, FilledArraySumAndMeanComprehensiveTest.class })
+		FilledArrayTestSuite.class, ArrayMeanTestSuite.class, FilledArraySumAndMeanComprehensiveTest.class, })
 public class MethodsTestSuite {
 
 }
